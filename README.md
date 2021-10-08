@@ -9,3 +9,5 @@ I love Python and completed a Back-End Python Developer professional training co
 Contact me:
 * [Telegram](https://t.me/hannutah);
 * [LinkedIn](https://www.linkedin.com/in/anya-agarenko/).
+
+📫-mail: anyaagarenko@gmail.com
