@@ -7,4 +7,5 @@ I love Python and completed a Back-End Python Developer professional training co
 🥨
 
 Reach me on [Telegram](https://t.me/hannutah). ;)
+
 📫-mail: anyaagarenko@gmail.com
